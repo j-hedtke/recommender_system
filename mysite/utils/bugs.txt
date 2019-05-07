@@ -1,0 +1,1 @@
+Scrapy spider limited scraping to 10 pages per reviewer -- may have missed a lot of movies. May have to go back and rescrape

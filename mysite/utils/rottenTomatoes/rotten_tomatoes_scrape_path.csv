@@ -1,0 +1,15 @@
+start, https://www.rottentomatoes.com/browse/dvd-streaming-all/
+
+show more, <button type="button" class="btn btn-secondary-rt mb-load-btn">Show More</button>
+
+movie, example,  https://www.rottentomatoes.com/m/the_man_who_killed_don_quixote
+
+all reviews, example, <a class="view_all_critic_reviews" href="/m/the_man_who_killed_don_quixote/reviews/">View All Critic Reviews (75) </a>
+
+to next page of all reviews, example, <a class="btn btn-xs btn-primary-rt" href="/m/the_man_who_killed_don_quixote/reviews/?page=2&amp;sort="><span class="glyphicon glyphicon-chevron-right"></span></a>
+
+//*[@id="reviews"]/div[2]/div[4]/div[1]/div[2]/div[1]
+
+//*[@id="content-column"]/div[2]/div[2]
+
+show more button, <button type="button" class="btn btn-secondary-rt mb-load-btn">Show More</button>
